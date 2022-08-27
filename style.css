@@ -1,0 +1,30 @@
+body{
+    background-image: url(./BG.jpg);
+}
+
+.container{
+    margin-top: 38px;
+
+    padding-left: 0;
+}
+
+.details{
+    background-image: linear-gradient( to bottom right, rgba(187, 245, 192, 0.842) , rgba(236, 243, 176, 0.678)) ;
+    border-radius: 20px;
+    padding-bottom: 20px ;
+    display: flex;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.registration-form{
+    width: 900px;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+}
+
+.submit-btn{
+    text-align: center;
+}
